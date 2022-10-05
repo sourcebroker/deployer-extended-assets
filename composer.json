@@ -1,0 +1,22 @@
+{
+  "name": "sourcebroker/deployer-extended-assets",
+  "description": "Deployment of assets from local level.",
+  "license": "MIT",
+  "keywords": [
+    "deployer"
+  ],
+  "authors": [
+    {
+      "name": "Krystian Szymukowicz",
+      "email": "k.szymukowicz@gmail.com"
+    }
+  ],
+  "require": {
+    "deployer/dist": "~6.8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "SourceBroker\\DeployerExtendedAssets\\": "src/"
+    }
+  }
+}
