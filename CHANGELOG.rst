@@ -2,6 +2,11 @@
 Changelog
 ---------
 
+2.0.0
+~~~~~
+
+1) [TASK][BREAKING] Add assets src folder to clear_path.
+
 1.0.0
 ~~~~~
 

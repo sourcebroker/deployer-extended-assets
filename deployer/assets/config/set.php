@@ -9,3 +9,5 @@ set('assets_frontend_dist_remote', $_ENV['ASSETS_FRONTEND_DIST_REMOTE'] ?? 'publ
 set('assets_frontend_build_deploy',
     $_ENV['ASSETS_FRONTEND_BUILD_DEPLOY'] ?? 'nvm install --latest-npm && npm ci && npm run production');
 set('assets_upload_chmod_mask', $_ENV['ASSETS_UPLOAD_CHMOD_MASK'] ?? 'D0755,F644');
+
+add('clear_paths', [get('assets_frontend_src')]);
