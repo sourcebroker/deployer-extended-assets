@@ -2,6 +2,12 @@
 Changelog
 ---------
 
+
+2.1.0
+~~~~~
+
+1) [TASK] Add config for new ``deployer-loader``.
+
 2.0.0
 ~~~~~
 
