@@ -1,7 +1,7 @@
 # deployer-extended-assets
 
-[![image](http://img.shields.io/packagist/v/sourcebroker/deployer-extended-assets.svg?style=flat)](https://packagist.org/packages/sourcebroker/deployer-extended-assets)
-[![image](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://packagist.org/packages/sourcebroker/deployer-extended-assets)
+[![Latest Stable Version](http://img.shields.io/packagist/v/sourcebroker/deployer-extended-assets.svg?style=flat)](https://packagist.org/packages/sourcebroker/deployer-extended-assets)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://packagist.org/packages/sourcebroker/deployer-extended-assets)
 
 ## What does it do?
 
